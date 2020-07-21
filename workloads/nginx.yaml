@@ -4,6 +4,7 @@ metadata:
   namespace: test
   labels:
     run: nginx
+    owner: thilee
   name: nginx
 spec:
   containers:
